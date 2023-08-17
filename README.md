@@ -3,6 +3,10 @@
 ![Joguinho Super Mario](https://meusjoguinhos.vercel.app/img/JoguinhoSuperMario.png)
 
 <p align="center">
+  https://joguinhosupermario.vercel.app/
+</p>
+
+<p align="center">
   <strong>Entre na aventura com o Super Mario e colete moedas e estrelas para marcar pontos!</strong>
 </p>
 
